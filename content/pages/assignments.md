@@ -9,40 +9,457 @@ Homework
 
 The Homework table below outlines the at-home work completed by students. In addition, [videos and downloadable materials](#l1) used to complete assignments, organized by topic, are provided below the Daily Homework table.
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Listen to Lesson 1-1 & do exercises.  {{< br >}}Handout reading & do the exercises. {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Listen to Lesson 1-2 and do exercises.  {{< br >}}Handout reading & answer questions. {{< br >}}{{< br >}}  |
-| 3 | Interview.  {{< br >}}Read the posted messages on Stellar. |
-| 4 | Review your readings and exercises for quiz-1. |
-| 5 | Watch video and do exercises.  {{< br >}}Handout reading and do the exercises. |
-| 6 |  {{< br >}}{{< br >}} Listen to and read 北京的小 胡同和四合院part-two.  {{< br >}}Internet reading on 北京的 小胡同和四合院. {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Do exercises on 北京的小胡 同和四合院.  {{< br >}}Stellar reading and discussion. {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Interview: 你最喜欢的住所 是什么？四合院还是现代 公寓？为什么？.  {{< br >}}Handout reading & exercise. {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Composition a) summarize your interview and post it on Stellar; b) write out your idea on the topic. {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Video watching..  {{< br >}}Handout reading and do the exercises. {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Video watching.  {{< br >}}Internet reading on Education in China.  {{< br >}}Handout reading. {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Handout reading.  {{< br >}}Stellar reading and discussion. {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Interview: 请你介绍一下你所知道的中国教育情况。  {{< br >}}Summarize your interview and post it on Stellar. {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} Video watching.  {{< br >}}Internet reading on education in China. {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} Composition: 美中教育的 比较。 {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} Listen to the recording, partone.  {{< br >}}Handout reading. {{< br >}}{{< br >}}  |
-| 17 |  {{< br >}}{{< br >}} Handout reading.  {{< br >}}Internet reading on changing China – focus on countryside. {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} Stellar reading and ask questions ( at least one question for each of the posted messages).  {{< br >}}Handout reading. {{< br >}}{{< br >}}  |
-| 19 |  {{< br >}}{{< br >}} Write a reading summary.  {{< br >}}Handout reading. {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} Handout reading.  {{< br >}}Stellar reading and ask questions ( at least one question for each of the posted messages). {{< br >}}{{< br >}}  |
-| 21 |  {{< br >}}{{< br >}} Handout reading.  {{< br >}}Internet reading. {{< br >}}{{< br >}}  |
-| 22 |  {{< br >}}{{< br >}} Handout reading.  {{< br >}}Composition and post your composition onto Stellar. {{< br >}}{{< br >}}  |
-| 23 |  {{< br >}}{{< br >}} Movie watching. {{< br >}}{{< br >}}  |
-| 24 |  {{< br >}}{{< br >}} Handout reading.  {{< br >}}**Take home midterm.  {{< br >}}**Take home quiz -4. {{< br >}}{{< br >}}  |
-| 25 |  {{< br >}}{{< br >}} Handout reading. {{< br >}}{{< br >}}  |
-| 26 |  {{< br >}}{{< br >}} Handout reading. {{< br >}}{{< br >}}  |
-| 27 |  {{< br >}}{{< br >}} Video watching on 文革起 因 .  {{< br >}}Internet reading on 文化大 革命, and write a summary of your reading and post it onto Stellar. {{< br >}}{{< br >}}  |
-| 28 |  {{< br >}}{{< br >}} Video watching on 文革起因 .  {{< br >}}Internet reading on 文化大 革命, and write a summary of your reading, and post it onto Stellar. {{< br >}}{{< br >}}  |
-| 29 |  {{< br >}}{{< br >}} Handout reading.  {{< br >}}Internet reading on 文化大 革命, and write a summary of your reading, and post it onto Stellar.  {{< br >}}Stellar reading and asking questions on the messages. {{< br >}}{{< br >}}  |
-| 30 |  {{< br >}}{{< br >}} Handout reading.  {{< br >}}Stellar reading and asking questions on the messages.  {{< br >}}Interview on Cultural Revolution, and write a summary of your interview and post it onto Stellar. {{< br >}}{{< br >}}  |
-| 31 |  {{< br >}}{{< br >}} Video watching on 红卫兵.  {{< br >}}Internet reading on 文化大 革命, and write a summary of your reading, and post it onto Stellar.  {{< br >}}Stellar reading and asking questions on the messages. {{< br >}}{{< br >}}  |
-| 32 |  {{< br >}}{{< br >}} Video watching on 上山下乡.  {{< br >}}Handout reading, and write a reading summary and post it onto Stellar.  {{< br >}}Stellar reading and asking questions on the messages. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Listen to Lesson 1-1 & do exercises.  
+Handout reading & do the exercises.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Listen to Lesson 1-2 and do exercises.  
+Handout reading & answer questions.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Interview.  
+Read the posted messages on Stellar.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Review your readings and exercises for quiz-1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Watch video and do exercises.  
+Handout reading and do the exercises.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Listen to and read 北京的小 胡同和四合院part-two.  
+Internet reading on 北京的 小胡同和四合院.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Do exercises on 北京的小胡 同和四合院.  
+Stellar reading and discussion.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interview: 你最喜欢的住所 是什么？四合院还是现代 公寓？为什么？.  
+Handout reading & exercise.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Composition a) summarize your interview and post it on Stellar; b) write out your idea on the topic.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Video watching..  
+Handout reading and do the exercises.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Video watching.  
+Internet reading on Education in China.  
+Handout reading.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.  
+Stellar reading and discussion.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interview: 请你介绍一下你所知道的中国教育情况。  
+Summarize your interview and post it on Stellar.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Video watching.  
+Internet reading on education in China.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Composition: 美中教育的 比较。
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Listen to the recording, partone.  
+Handout reading.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.  
+Internet reading on changing China – focus on countryside.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stellar reading and ask questions ( at least one question for each of the posted messages).  
+Handout reading.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Write a reading summary.  
+Handout reading.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.  
+Stellar reading and ask questions ( at least one question for each of the posted messages).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.  
+Internet reading.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.  
+Composition and post your composition onto Stellar.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Movie watching.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.  
+**Take home midterm.  
+**Take home quiz -4.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Video watching on 文革起 因 .  
+Internet reading on 文化大 革命, and write a summary of your reading and post it onto Stellar.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Video watching on 文革起因 .  
+Internet reading on 文化大 革命, and write a summary of your reading, and post it onto Stellar.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.  
+Internet reading on 文化大 革命, and write a summary of your reading, and post it onto Stellar.  
+Stellar reading and asking questions on the messages.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout reading.  
+Stellar reading and asking questions on the messages.  
+Interview on Cultural Revolution, and write a summary of your interview and post it onto Stellar.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Video watching on 红卫兵.  
+Internet reading on 文化大 革命, and write a summary of your reading, and post it onto Stellar.  
+Stellar reading and asking questions on the messages.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Video watching on 上山下乡.  
+Handout reading, and write a reading summary and post it onto Stellar.  
+Stellar reading and asking questions on the messages.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "l1" >}}{{< /anchor >}}Assignment Videos and Materials
 -----------------------------------------------------------------
